@@ -1,10 +1,10 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "Develop/server.js",
   "scripts": {
     "test": "jest",
-    "start": "node server.js"
+    "start": "node Develop/server.js"
   },
   "author": "",
   "license": "ISC",
@@ -13,7 +13,7 @@
     "jest": "^26.2.2"
   },
   "directories": {
-    "lib": "lib"
+    "lib": "Develop/lib"
   },
   "keywords": [],
   "description": ""
